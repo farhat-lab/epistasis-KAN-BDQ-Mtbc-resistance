@@ -1,6 +1,6 @@
 # epistasis-KAN-BDQ-Mtbc-resistance
 
-This repository contains the Jupyter Notebooks used for data processing and analysis for the article "The role of epistasis in amikacin, kanamycin, bedaquiline, and clofazimine resistance in *Mycobacterium tuberculosis* complex" (Vargas et al. 2021).
+This repository contains the Jupyter Notebooks used for data processing and analysis for the article "The role of epistasis in amikacin, kanamycin, bedaquiline, and clofazimine resistance in *Mycobacterium tuberculosis* complex" (Vargas et al. 2021, https://journals.asm.org/doi/full/10.1128/aac.01164-21).
 
 Notebooks were run in order from top to bottom as listed below. All code was written in Python 2 and running code within these notebooks requires installing the necessary python packages, bioinformatics pipelines & changing the directory paths within the notebooks.
 
